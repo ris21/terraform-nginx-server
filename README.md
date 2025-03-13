@@ -19,10 +19,13 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
 - **Reproducibility**: Deploy identical infrastructure with a single command.  
 
 ## 🚀 Getting Started  
-### Prerequisites  
-- Terraform installed  
-- AWS account and credentials  
 
+## 📋 **Prerequisites**
+- [Terraform](https://www.terraform.io/downloads) (v1.0+)
+- [AWS CLI](https://aws.amazon.com/cli/) configured with valid credentials
+- AWS Account with IAM permissions for EC2, VPC, and Security Groups
+- SSH Key Pair ([Create one in AWS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html))
+ 
 ###  Skills Demonstrated
  - Terraform: Infrastructure as Code (IaC)
 
