@@ -44,7 +44,7 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
    ```sh
    terraform plan
    ```
-   ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/Terraform%20init%20and%20plan.PNG).
+   ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/terraform%20plan.PNG).
 3. **Apply the Changes:**
    ```sh
    terraform apply -auto-approve
