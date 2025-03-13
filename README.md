@@ -22,10 +22,10 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
 ## 🚀 Getting Started  
 
 ### 📋 **Prerequisites**
-- [Terraform](https://www.terraform.io/downloads) (v1.0+)
-- [AWS CLI](https://aws.amazon.com/cli/) configured with valid credentials
+- Terraform installed
+- AWS CLI configured with valid credentials
 - AWS Account with IAM permissions for EC2, VPC, and Security Groups
-- SSH Key Pair ([Create one in AWS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html))
+- SSH Key Pair
  
 ###  Skills Demonstrated
  - Terraform: Infrastructure as Code (IaC)
