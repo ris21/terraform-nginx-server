@@ -1,6 +1,7 @@
 
-# 🚀 Terraform AWS EC2 Deployment with Nginx  
-**Automate Infrastructure as Code (IaC) using Terraform and AWS**  
+# 🚀 Terraform AWS Project: Automated Nginx Server Deployment
+
+**Deploy a secure, scalable Nginx web server on AWS using Infrastructure as Code (IaC)** 
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
