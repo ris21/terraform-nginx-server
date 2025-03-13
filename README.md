@@ -23,7 +23,15 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
 - Terraform installed  
 - AWS account and credentials  
 
-### Usage  
-1. Clone the repo:  
-   ```bash  
-   git clone https://github.com/your-username/terraform-aws-nginx.git  
+###  Skills Demonstrated
+Terraform: Infrastructure as Code (IaC)
+
+AWS: EC2, Security Groups, IAM
+
+Automation: Bash scripting, CI/CD principles
+
+DevOps Best Practices: Version control, documentation
+
+### Output
+
+
