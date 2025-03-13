@@ -39,7 +39,7 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
    ```sh
    terraform init
    ```
-   
+   ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/Terraform%20init%20and%20plan.PNG).
 2. **Plan the Deployment:**
    ```sh
    terraform plan
