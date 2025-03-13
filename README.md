@@ -24,13 +24,13 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
 - AWS account and credentials  
 
 ###  Skills Demonstrated
-Terraform: Infrastructure as Code (IaC)
+ - Terraform: Infrastructure as Code (IaC)
 
-AWS: EC2, Security Groups, IAM
+ - AWS: EC2, Security Groups, IAM
 
-Automation: Bash scripting, CI/CD principles
+ - Automation: Bash scripting, CI/CD principles
 
-DevOps Best Practices: Version control, documentation
+ - DevOps Best Practices: Version control, documentation
 
 ### Output
 
