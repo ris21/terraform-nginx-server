@@ -34,9 +34,9 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
    - An EC2 instance (`t2.micro`, Free Tier eligible).
    - A security group allowing SSH (port `22`) and HTTP (port `80`).
    - The Terraform configuration file can be found at:
-```
-terraform-nginx/main.tf
-```
+   ```
+   terraform-nginx/main.tf
+   ```
 3. **Deployed the infrastructure.**
    1. **Initialize Terraform:**
    ```sh
