@@ -26,14 +26,38 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
 - AWS CLI configured with valid credentials
 - AWS Account with IAM permissions for EC2, VPC, and Security Groups
 - SSH Key Pair
- 
+
+### Tasks
+
+1. **Installed Terraform on my local machine.**
+2. **Wrote a Terraform configuration to provision:**
+   - An EC2 instance (`t2.micro`, Free Tier eligible).
+   - A security group allowing SSH (port `22`) and HTTP (port `80`).
+   - 
+3. **Deployed the infrastructure.**
+   1. **Initialize Terraform:**
+   ```sh
+   terraform init
+   ```
+   
+2. **Plan the Deployment:**
+   ```sh
+   terraform plan
+   ```
+   
+3. **Apply the Changes:**
+   ```sh
+   terraform apply -auto-approve
+   ```
+   
+5. **Tested the application using ssh.**
+   
+7. **Destroyed the infrastructure after testing.**
+   
 ###  Skills Demonstrated
  - Terraform: Infrastructure as Code (IaC)
-
  - AWS: EC2, Security Groups, IAM
-
  - Automation: Bash scripting, CI/CD principles
-
  - DevOps Best Practices: Version control, documentation
 
 ### Nginx web page access
