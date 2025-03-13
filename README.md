@@ -39,19 +39,18 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
    ```sh
    terraform init
    ```
-    ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/Terraform%20init%20and%20plan.PNG).
+    ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/Terraform%20init%20and%20plan.PNG)
 2. **Plan the Deployment:**
    ```sh
    terraform plan
    ```
-   ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/terraform%20plan.PNG).
+   ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/terraform%20plan.PNG)
 3. **Apply the Changes:**
    ```sh
    terraform apply -auto-approve
    ```
-     ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/Terraform%20init%20and%20plan.PNG).
 5. **Tested the application using ssh.**
-   
+   ![image alt]()
 7. **Destroyed the infrastructure after testing.**
    
 ###  Skills Demonstrated
