@@ -36,7 +36,7 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
 
  - DevOps Best Practices: Version control, documentation
 
-### Output
+### Nginx web page access
 ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/accessing%20web%20server%20-nginx.PNG)
 
 ### 📜 License
