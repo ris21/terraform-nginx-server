@@ -53,7 +53,7 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
    ```sh
    terraform output
    ```
-    ![image alt]()
+    ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/complete.PNG)
 5. **Tested the application using ssh.**
    
    ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/test%20conectivity.PNG)
