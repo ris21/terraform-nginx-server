@@ -33,5 +33,5 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
  - DevOps Best Practices: Version control, documentation
 
 ### Output
-
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
