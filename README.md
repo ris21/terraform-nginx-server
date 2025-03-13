@@ -50,9 +50,9 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
    terraform apply -auto-approve
    ```
 5. **Tested the application using ssh.**
-   ![image alt]()
+   ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/test%20conectivity.PNG)
 7. **Destroyed the infrastructure after testing.**
-   
+    ![image alt]()
 ###  Skills Demonstrated
  - Terraform: Infrastructure as Code (IaC)
  - AWS: EC2, Security Groups, IAM
