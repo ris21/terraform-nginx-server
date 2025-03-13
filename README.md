@@ -21,7 +21,7 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
 
 ## 🚀 Getting Started  
 
-## 📋 **Prerequisites**
+### 📋 **Prerequisites**
 - [Terraform](https://www.terraform.io/downloads) (v1.0+)
 - [AWS CLI](https://aws.amazon.com/cli/) configured with valid credentials
 - AWS Account with IAM permissions for EC2, VPC, and Security Groups
@@ -39,5 +39,5 @@ This project demonstrates **Infrastructure as Code (IaC)** using Terraform to de
 ### Output
 ![image alt](https://github.com/ris21/terraform-nginx-server/blob/main/accessing%20web%20server%20-nginx.PNG)
 
-📜 License
+###📜 License
 Apache License 2.0 | Learn More
